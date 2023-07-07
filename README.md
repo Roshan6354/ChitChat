@@ -12,8 +12,8 @@ IIIT-Chats is  Full Stack Chatting App. Uses Socket.io for real time communicati
   
 ## Demo
 
-
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+<!-- 
+![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG) -->
 ## Run Locally
 
 Clone the project
@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd IIITA-Chats
 ```
 
 Install dependencies
