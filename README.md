@@ -1,7 +1,7 @@
 
-# IIIT-Chats
+# CHITCHAT
 
-IIIT-Chats is  Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database. Here user's can chat will each other one to one or in group chat also.
+ CHITCHAT is  Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database. Here user's can chat will each other one to one or in group chat also.
 ## Tech Stack
 
 **Client:** React JS
